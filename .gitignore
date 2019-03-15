@@ -1,0 +1,3 @@
+chromedriver
+*.zip
+.ipynb_checkpoints/
